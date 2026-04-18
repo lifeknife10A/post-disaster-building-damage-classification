@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+env/
+venv/
+*.pyc
+*.pth
+dataset/
+dataset_balanced/
+split_dataset/
+split_dataset_balanced/
+train/
+val/
