@@ -40,6 +40,9 @@ The project is organized as a sequence of notebooks:
    - a hybrid CNN + ResNet50 model
 5. The notebooks print epoch-wise training progress and final validation metrics.
 
+## Workflow Diagram
+![Workflow](docs/workflow-diagram.png)
+
 ### Recorded Dataset Preparation Details
 
 The preprocessing notebook shows the following assumptions and outputs:
